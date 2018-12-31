@@ -9,6 +9,7 @@
     * [隔空投送最近一张屏幕截图](#隔空投送最近一张屏幕截图)
 * [ssh相关](#ssh相关)
     * [传输文件到PC](#传输文件到pc)
+* [觉得不错可以买杯咖啡给我](#觉得不错可以买杯咖啡给我)
 
 <!-- vim-markdown-toc -->
 
@@ -47,3 +48,7 @@
 二维码:
 
 ![img_3820](https://user-images.githubusercontent.com/4246425/50555186-a53fde00-0d03-11e9-9886-e826478af891.png)
+
+# 觉得不错可以买杯咖啡给我
+
+![donation](https://cloud.githubusercontent.com/assets/4246425/24827592/553bc732-1c7f-11e7-8207-284cccbc2e5c.jpg)
