@@ -7,6 +7,8 @@
     * [隔空投送选择的多张图片](#隔空投送选择的多张图片)
     * [拍照后然后隔空投送](#拍照后然后隔空投送)
     * [隔空投送最近一张屏幕截图](#隔空投送最近一张屏幕截图)
+* [ssh相关](#ssh相关)
+    * [传输文件到PC](#传输文件到pc)
 
 <!-- vim-markdown-toc -->
 
@@ -32,3 +34,16 @@
 ## 隔空投送最近一张屏幕截图
 
 ![隔空投送最近一张屏幕截图](https://user-images.githubusercontent.com/4246425/50548554-f6ab8700-0c89-11e9-963b-0626e8cf26bc.png)
+
+
+# ssh相关
+
+## 传输文件到PC
+
+有以下功能，
+
+![img_3821](https://user-images.githubusercontent.com/4246425/50555202-da4c3080-0d03-11e9-8e43-3b79c808c4b4.png)
+
+二维码:
+
+![img_3820](https://user-images.githubusercontent.com/4246425/50555186-a53fde00-0d03-11e9-9886-e826478af891.png)
