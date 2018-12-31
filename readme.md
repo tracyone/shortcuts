@@ -41,7 +41,7 @@
 
 ## 传输文件到PC
 
-有以下功能，
+有以下功能，默认将文件传输到家目录上:
 
 ![img_3821](https://user-images.githubusercontent.com/4246425/50555202-da4c3080-0d03-11e9-8e43-3b79c808c4b4.png)
 
