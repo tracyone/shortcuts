@@ -15,6 +15,8 @@
 
 # 个人创作的一些iOS的捷径
 
+[Apple官方教程](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
+
 # 隔空投送相关
 
 以下利用隔空投送发送相片或者其它文件，隔空投送完毕之后自动关闭蓝牙和隔空投送
