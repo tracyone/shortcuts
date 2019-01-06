@@ -16,7 +16,8 @@
 
 # 个人创作的一些iOS的捷径
 
-[Apple官方教程](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
+1. [Apple官方教程](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
+2. [reddit shortcuts社区](https://www.reddit.com/r/shortcuts/)
 
 点击图片可以跳转到对应到icloud链接上。
 
