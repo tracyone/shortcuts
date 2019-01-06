@@ -9,6 +9,7 @@
     * [隔空投送最近一张屏幕截图](#隔空投送最近一张屏幕截图)
 * [ssh相关](#ssh相关)
     * [传输文件到PC](#传输文件到pc)
+* [高铁票什么时候买](#高铁票什么时候买)
 * [觉得不错可以买杯咖啡给我](#觉得不错可以买杯咖啡给我)
 
 <!-- vim-markdown-toc -->
@@ -16,6 +17,8 @@
 # 个人创作的一些iOS的捷径
 
 [Apple官方教程](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
+
+点击图片可以跳转到对应到icloud链接上。
 
 # 隔空投送相关
 
@@ -50,6 +53,11 @@
 二维码:
 
 ![img_3820](https://user-images.githubusercontent.com/4246425/50555186-a53fde00-0d03-11e9-9886-e826478af891.png)
+
+# 高铁票什么时候买
+
+[![高铁票](https://user-images.githubusercontent.com/4246425/50733478-1f230c00-11c9-11e9-9ea4-2e8d96b93d3d.png)](https://www.icloud.com/shortcuts/b9540bfe26ee433dafda4b130b8b225d)
+
 
 # 觉得不错可以买杯咖啡给我
 
