@@ -51,9 +51,7 @@
 
 ![img_3821](https://user-images.githubusercontent.com/4246425/50555202-da4c3080-0d03-11e9-8e43-3b79c808c4b4.png)
 
-二维码:
-
-![img_3820](https://user-images.githubusercontent.com/4246425/50555186-a53fde00-0d03-11e9-9886-e826478af891.png)
+[icloud 链接](https://www.icloud.com/shortcuts/fd040f73797d451f8f93076e749feef6)
 
 # 高铁票什么时候买
 
